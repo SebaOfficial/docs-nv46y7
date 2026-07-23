@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-i0kssy.educacaobilingue.com.br/sitemap.xml
